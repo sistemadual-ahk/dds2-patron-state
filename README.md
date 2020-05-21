@@ -1,4 +1,4 @@
-###Contenido del repositorio
+### Contenido del repositorio
 En este repositorio te encontrarás con un template básico del Patrón de Diseño State implementado en varios lenguajes de programación, a saber:
 - **C#**: respetando la utilización de Net Framework 4.7.2
 - **Java**: respetando la utilización de la JDK de Java 8
