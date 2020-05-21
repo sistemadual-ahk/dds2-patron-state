@@ -1,5 +1,7 @@
 <?php
+namespace dominio\estados;
 
+use dominio\Contexto;
 
 class EstadoConcretoB implements EstadoContexto {
 
